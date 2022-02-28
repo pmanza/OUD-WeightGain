@@ -1,0 +1,5 @@
+﻿Study,StudyID,Author,Year,Mean_BMI_Change_Male,SD_BMI_Change_Male,N_Male,Mean_BMI_Change_Female,SD_BMI_Change_Female,N_Female,tVal,pVal,dVal,Age,Treatment_Type,Dose (mg),Treatment Duration (Days),%_Smokers
+1,20,Sweeney,2019,4.47,3.29,41,6.58,5.97,33,1.94,0.06,NA,40.9,Methadone,98.8,1095,83.8
+2,83,Fenn,2015,1.7,,61,5.2,,35,4.78,,NA,38,Methadone,116,657,NA
+3,173,Peles,2016,1.73,4.58,129,2.5,4.62,34,,,NA,43.6,Methadone,118.5,365,NA
+4,8023,Sadek,2016,2.92,3.77,13,1.64,2.73,16,-1.06,0.2983,NA,29.3,Methadone,NA,365,82.8
